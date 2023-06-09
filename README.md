@@ -14,6 +14,7 @@ Spring Boot - Uma API Rest em java. (com ajuda da Alura Cursos)
    - Maven
    - Insomnia
    - JSON Web Token
+   - Git e Github
 
 ## Contato
 kawmont.tech@gmail.com
