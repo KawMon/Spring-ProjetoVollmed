@@ -12,7 +12,7 @@ Spring Boot - Uma API Rest em java. (com ajuda da Alura Cursos)
    - MySQL/ Flyway
    - JPA/Hibernate
    - Maven
-   - Insomnia
+   - Insomnia (Post, Get, Put, Del)
    - JSON Web Token
    - Git e Github
 
